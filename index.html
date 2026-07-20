@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tamagotchi</title>
+    <!-- Link to the CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="device-container">
+    <div class="device">
+        <h1 class="device-title">AI-TAMA</h1>
+        
+        <div class="screen">
+            <div id="pet" class="pet">👾</div>
+            <div id="message" class="message-box">Waiting...</div>
+        </div>
+
+        <div class="stats-container">
+            <div class="stat-row">
+                <span>Hunger</span>
+                <div class="status-bar"><div id="hunger-bar" class="fill"></div></div>
+            </div>
+            <div class="stat-row">
+                <span>Happy</span>
+                <div class="status-bar"><div id="happy-bar" class="fill"></div></div>
+            </div>
+            <div class="stat-row">
+                <span>Energy</span>
+                <div class="status-bar"><div id="energy-bar" class="fill"></div></div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button id="btn-feed" class="control-btn">Feed</button>
+            <button id="btn-play" class="control-btn">Play</button>
+            <button id="btn-sleep" class="control-btn">Sleep</button>
+        </div>
+        
+        <div id="restart-btn" class="hidden">
+            <button onclick="location.reload()">Restart Game</button>
+        </div>
+    </div>
+</div>
+
+<!-- Link to the JavaScript file -->
+<script src="script.js"></script>
+</body>
+</html>
