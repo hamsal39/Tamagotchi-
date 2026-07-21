@@ -34,17 +34,4 @@ HTML
 CSS
 JavaScript
 
-## Frameworks
-![Screenshot 2023-05-25 at 8 17 00 PM](https://github.com/tugcecerit/Tamagotchi-Game/assets/119981069/34a36cf8-f979-4640-bf1f-f36603150880)
-![Screenshot 2023-05-25 at 8 17 15 PM](https://github.com/tugcecerit/Tamagotchi-Game/assets/119981069/63d0b35c-4db1-4fa9-8e57-6939898f06b7)
-![Screenshot 2023-05-25 at 8 17 40 PM](https://github.com/tugcecerit/Tamagotchi-Game/assets/119981069/1d7a9599-ce64-4893-946f-019c806443cb)
-![Screenshot 2023-05-25 at 8 18 16 PM](https://github.com/tugcecerit/Tamagotchi-Game/assets/119981069/2415206d-535a-4343-b265-f07c03c89954)
-![Screenshot 2023-05-25 at 8 20 02 PM](https://github.com/tugcecerit/Tamagotchi-Game/assets/119981069/fa4de553-d8a1-4a42-b188-7d1bdb8fe96b)
-![Screenshot 2023-05-25 at 8 23 02 PM](https://github.com/tugcecerit/Tamagotchi-Game/assets/119981069/2ad7da71-905f-4ef0-82cc-cfb857435393)
-![Screenshot 2023-05-25 at 8 24 13 PM](https://github.com/tugcecerit/Tamagotchi-Game/assets/119981069/dbebaec0-b6b9-48b1-98a3-8b0553afcdbc)
-![Screenshot 2023-05-25 at 8 24 59 PM](https://github.com/tugcecerit/Tamagotchi-Game/assets/119981069/8b6382e1-0dc8-4ccf-89a2-86606192823a)
 
-## Credits
-This Tamagotchi game was developed as a mini-project and is inspired by the classic Tamagotchi toys. The project was created by Tugce Cerit as a demonstration of HTML, CSS, and JavaScript skills.
-
-Feel free to explore the code and make any improvements or modifications to personalize your Tamagotchi game further.
